@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -29,32 +31,7 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
@@ -95,25 +72,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
 
 ###
