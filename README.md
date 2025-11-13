@@ -59,11 +59,8 @@
 
 <br clear="both" />
 
-###
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px;">
-
-  <!-- Spotify -->
   <div>
     <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false"
@@ -72,8 +69,6 @@
       />
     </a>
   </div>
-
-  <!-- Snake -->
   <div>
     <img src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg"
          alt="Snake animation"
@@ -82,7 +77,4 @@
   </div>
 
 </div>
-
-
-###
 
