@@ -96,34 +96,10 @@
 
 
 ###
+<div align="center">
+<br clear="both">
 
-<table align="center">
-  <tr>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <!-- 왼쪽: Snake -->
-    <td align="center" style="padding: 0; border: none;" width="70%">
-      <img 
-        src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" 
-        alt="Snake animation" 
-        style="width:100%; border:none;"
-      />
-    </td>
-    <!-- 오른쪽: Spotify 최근 재생 2곡 -->
-    <td align="center" style="padding: 0; border: none;" width="30%">
-      <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e" target="_blank">
-        <img 
-          src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" 
-          alt="Spotify recently played" 
-          style="width:100%; border:none;"
-        />
-      </a>
-    </td>
+<img src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" alt="Snake animation" />
+</div>
 
-  </tr>
-</table>
-
-
-  </tr>
-</table>
 
