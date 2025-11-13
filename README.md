@@ -29,7 +29,22 @@
 
 ###
 
-<div align="left">
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="unrealengine logo"  />
@@ -49,21 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" alt="aftereffects logo"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
