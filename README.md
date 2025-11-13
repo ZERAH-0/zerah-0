@@ -21,11 +21,11 @@
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
 
 ###
 
-<p align="left">Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!</p>
+<p align="left">Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!</p>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<img align="right" height="350" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/cat.gif"  />
+<img align="right" height="250" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/cat.gif"  />
 
 ###
 
