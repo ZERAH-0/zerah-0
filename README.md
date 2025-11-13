@@ -39,6 +39,14 @@
 
 
 <div align="center">
+
+  <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/ZERAH%20SITE-🍅-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF&color=FFFFFF" 
+      height="35" 
+    />
+  </a>
+
   <!-- YouTube -->
   <a href="https://www.youtube.com/@YOUR_YOUTUBE_ID" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -74,11 +82,6 @@
   <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" height="35" />
 </a>
 
-  <!-- ZERAH Home -->
-  <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
-    <img src="https://img.shields.io/badge/ZERAH-0EA5E9?style=for-the-badge&logo=homeassistant&logoColor=white" height="35" />
-  </a>
-  
 </div>
 
 ###
