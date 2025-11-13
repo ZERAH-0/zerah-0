@@ -3,13 +3,16 @@
 </div>
 
 ###
+<p align="center" style="margin-bottom: 5px;">!! im somthing!! im somthing!! im somthing</p>
 
-<p align="center">!! im somthing!! im somthing!! im somthing</p>
-
+<!-- 가로 구분선 (간격 & 두께 줄임) -->
+<hr style="width:80%; 
+           margin-top: 5px; 
+           margin-bottom: 10px; 
+           border: 0; 
+           height: 0.05px; 
+           background:#444;" />
 ###
-
-  <!-- 가로 구분선 -->
-  <hr style="width:80%; margin-top:20px; border:0; height:0.05px; background:#444;" />
   
 <br clear="both">
 
