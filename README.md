@@ -50,7 +50,7 @@
   </a>
 
   <!-- Discord (프로필 링크 or 서버 초대링크) -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/zerah_0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 
