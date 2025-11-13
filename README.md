@@ -63,7 +63,7 @@
 
 <img align="left" height="120" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
 
-<p align="left" style="margin-left: 20px;">
+<p align="left" style="margin-left: 50px;">
     - 🎨 I love building <b>immersive, interactive worlds</b> with physics & AI. <br>
     - 🧪 Currently experimenting with <b>hand tracking, pose tracking, and expressive crowds</b>.<br>
     - 🪐 Dreaming of becoming an <b>Immersive Simulation Engineer</b>.<br>
