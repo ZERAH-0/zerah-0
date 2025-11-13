@@ -42,7 +42,7 @@
 
   <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/𝙕𝙀𝙍𝘼𝙃-🍅-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=111827" 
+      src="https://img.shields.io/badge/🍅-𝙕𝙀𝙍𝘼𝙃-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=111827" 
       height="35"
   />
   </a>
