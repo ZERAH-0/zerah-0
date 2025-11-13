@@ -9,7 +9,7 @@
 ###
 
   <!-- 가로 구분선 -->
-  <hr style="width:80%; margin-top:20px; border:0; height:0.5px; background:#444;" />
+  <hr style="width:80%; margin-top:20px; border:0; height:0.05px; background:#444;" />
   
 <br clear="both">
 
