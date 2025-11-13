@@ -85,14 +85,22 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" alt="zerah gif" />
-
 - 🎨 I love building **immersive, interactive worlds** with physics & AI.  
 - 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.  
 - 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  
 - 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.
 
-<br clear="both" />
+###
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" alt="zerah gif" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
 ###
