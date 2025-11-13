@@ -42,10 +42,11 @@
 
   <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/ZERAH%20SITE-🍅-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF&color=FFFFFF" 
-      height="35" 
-    />
+      src="https://img.shields.io/badge/ZERAH%20SITE-🍅-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=111827" 
+      height="35"
+  />
   </a>
+
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@YOUR_YOUTUBE_ID" target="_blank">
