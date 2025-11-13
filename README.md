@@ -24,12 +24,12 @@
     />
   </a>
 
-    <!-- LinkedIn -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zerah-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 
-    <!-- Velog -->
+  <!-- Velog -->
    <a href="https://velog.io/@zerah-0" target="_blank">
     <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" height="25" />
   </a>
