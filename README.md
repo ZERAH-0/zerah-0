@@ -57,32 +57,30 @@
 - 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  
 - 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.
 
-### 🎧 Now Playing + 🐍 Snake
+### 
 
 <table align="center">
-  <tr>
+<tr>
 
-    <!-- Spotify -->
-    <td align="center">
-      <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
-        <img 
-          src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" 
-          alt="Spotify recently played"
-          height="200"
-        />
-      </a>
-    </td>
-
-    <!-- Snake -->
-    <td align="center">
-      <img 
-        src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" 
-        alt="Snake animation" 
+  <!-- Spotify -->
+  <td align="center" style="padding-right: 20px;">
+    <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
+      <img
+        src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false"
+        alt="Spotify recently played"
         height="200"
       />
-    </td>
+    </a>
+  </td>
 
-  </tr>
+  <!-- Snake -->
+  <td align="center" style="padding-left: 20px;">
+    <img
+      src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg"
+      alt="Snake animation"
+      height="200"
+    />
+  </td>
+
+</tr>
 </table>
-
-
