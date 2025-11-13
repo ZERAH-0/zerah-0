@@ -1,23 +1,42 @@
-<h2 align="left">Hi 👋! My name is ZERAH!</h2>
+<h2 align="center">Hi 👋! My name is ZERAH!</h2>
 
-###
+<p align="center">
+  Immersive Simulation · AI Graphics · Realtime Interaction
+</p>
 
+---
+
+<!-- GitHub Stats + Languages (ZERAH 팔레트) -->
 <div align="center">
-  <!-- GitHub Stats (에러 줄인 버전) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zerah-0&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150"
-    alt="stats graph"
+    src="https://github-readme-stats.vercel.app/api?username=zerah-0
+    &show_icons=true
+    &bg_color=0D1117
+    &title_color=4FC3F7
+    &text_color=E0E0E0
+    &icon_color=FF8AB8
+    &border_color=5C6BC0
+    &ring_color=FDD835
+    &hide_border=false"
+    height="200"
+    alt="GitHub Stats"
   />
-  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zerah-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="languages graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerah-0
+    &layout=compact
+    &bg_color=0D1117
+    &title_color=4FC3F7
+    &text_color=E0E0E0
+    &border_color=5C6BC0
+    &hide_border=false"
+    height="200"
+    alt="Top Languages"
   />
 </div>
 
-###
+---
+
+### 🔧 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
@@ -41,7 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
 
-###
+---
+
+### 🌐 Where to find me
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -52,15 +73,22 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
-###
+---
 
-<p align="left">Hello World!!</p>
+### 🎮 Little about me
 
-###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="zerah chibi gif" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🎨 I love building **immersive, interactive worlds** with physics & AI.  
+- 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.  
+- 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  
+- 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.
 
-###
+<br clear="both" />
+
+---
+
+### 🎧 Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
@@ -68,10 +96,10 @@
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" alt="Snake animation" />
+</div>
