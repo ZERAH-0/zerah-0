@@ -95,28 +95,34 @@
 <br clear="both" />
 
 
-### 🎧 Now Playing & 🐍 Snake
+###
 
 <table align="center">
   <tr>
-    <!-- 왼쪽: 스네이크 (가로 좁게) -->
-    <td width="55%" align="center">
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <!-- 왼쪽: Snake -->
+    <td align="center" style="padding: 0; border: none;" width="63%">
       <img 
         src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" 
         alt="Snake animation" 
-        width="100%"
+        style="width:100%; border:none;"
       />
     </td>
     <!-- 오른쪽: Spotify 최근 재생 2곡 -->
-    <td width="45%" align="center">
-      <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
+    <td align="center" style="padding: 0; border: none;" width="37%">
+      <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e" target="_blank">
         <img 
           src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" 
           alt="Spotify recently played" 
-          width="100%"
+          style="width:100%; border:none;"
         />
       </a>
     </td>
+
+  </tr>
+</table>
+
 
   </tr>
 </table>
