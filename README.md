@@ -74,6 +74,10 @@
   <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" height="35" />
 </a>
 
+  <!-- ZERAH Home -->
+  <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
+    <img src="https://img.shields.io/badge/ZERAH-0EA5E9?style=for-the-badge&logo=homeassistant&logoColor=white" height="35" />
+  </a>
   
 </div>
 
