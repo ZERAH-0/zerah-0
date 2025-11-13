@@ -61,7 +61,7 @@
 
 ### 🎮 Little about me
 
-<img align="right" height="120" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
 
 <p align="left" style="margin-left: 50px;">
     - 🎨 I love building <b>immersive, interactive worlds</b> with physics & AI. <br>
