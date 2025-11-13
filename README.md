@@ -61,10 +61,10 @@
 <img align="left" height="120" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
 
 <p align="left">
-- 🎨 I love building **immersive, interactive worlds** with physics & AI.  <br>
-- 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.<br>  
-- 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  <br>
-- 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.<br>
+    - 🎨 I love building **immersive, interactive worlds** with physics & AI.  <br>
+    - 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.<br>  
+    - 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  <br>
+    - 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.<br>
 </p>
 
 <br clear="both" />
