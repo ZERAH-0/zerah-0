@@ -50,15 +50,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="zerah chibi gif" />
 
-###
+- 🎨 I love building **immersive, interactive worlds** with physics & AI.  
+- 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.  
+- 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  
+- 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<br clear="both" />
 
 
 ###
