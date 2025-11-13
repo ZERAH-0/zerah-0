@@ -70,10 +70,10 @@
 ### 🎮 Little about me
 
 <p align="left" style="margin-left: 50px;">
-    - 🎨 I love building <b>immersive, interactive worlds</b> with physics & AI. <br>
-    - 🧪 Currently experimenting with <b>hand tracking, pose tracking, and expressive crowds</b>.<br>
-    - 🪐 Dreaming of becoming an <b>Immersive Simulation Engineer</b>.<br>
-    - 💻 Mostly working in <b>Unity / Unreal / C++ / C# / Python</b>.<br>
+    - 💡 Focused on real-time simulation, character behavior, and physically-driven interaction. <br>
+    - 🧬 Experimenting with hand tracking pipelines, pose-based interaction, and crowd simulation systems.<br>
+    - 🧠 Pursuing a career as an AI Graphics & Simulation Engineer, bridging graphics with intelligent motion.<br>
+    - 💻Comfortable with Unity, Unreal Engine, C++, C#, Python, and real-time pipelines.<br>
 </p>
 
 
