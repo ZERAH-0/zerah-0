@@ -59,9 +59,9 @@
 
 </div>
 
-### 🎮 Little about me
-
 <img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
+
+### 🎮 Little about me
 
 <p align="left" style="margin-left: 50px;">
     - 🎨 I love building <b>immersive, interactive worlds</b> with physics & AI. <br>
