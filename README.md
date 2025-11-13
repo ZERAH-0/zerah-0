@@ -21,11 +21,11 @@
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
 
 ###
 
-<p align="left">Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!</p>
+<p align="left">Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!<br>Hello World!!</p>
 
 ###
 
