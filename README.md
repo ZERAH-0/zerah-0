@@ -52,11 +52,12 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="zerah chibi gif" />
 
+<div align="center">
 - 🎨 I love building **immersive, interactive worlds** with physics & AI.  
 - 🧪 Currently experimenting with **hand tracking, pose tracking, and expressive crowds**.  
 - 🪐 Dreaming of becoming an **Immersive Simulation Engineer**.  
 - 💻 Mostly working in **Unity / Unreal / C++ / C# / Python**.
-
+</div>
 <br clear="both" />
 
 
