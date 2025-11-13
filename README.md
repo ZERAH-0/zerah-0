@@ -64,9 +64,9 @@
 <br><br>
 
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
-
 ### 🎮 About Me...
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
 
 <p align="left" style="margin-left: 50px;">
     - 💡 Working on real-time simulation, character behavior, and physically-driven interaction.<br>
