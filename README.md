@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left" 
+<div align="center" 
      style="background-color:#1e1e1e; padding:15px 20px; border-radius:12px; display:inline-block;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" style="margin:8px;" />
