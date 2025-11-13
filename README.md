@@ -70,10 +70,10 @@
 ### 🎮 Little about me
 
 <p align="left" style="margin-left: 50px;">
-    - 💡 Focused on real-time simulation, character behavior, and physically-driven interaction. <br>
-    - 🧬 Experimenting with hand tracking pipelines, pose-based interaction, and crowd simulation systems.<br>
-    - 🧠 Pursuing a career as an AI Graphics & Simulation Engineer, bridging graphics with intelligent motion.<br>
-    - 💻Comfortable with Unity, Unreal Engine, C++, C#, Python, and real-time pipelines.<br>
+    - 💡 Creating real-time, physics-driven interactions. <br>
+    - ✋ Experimenting with hand tracking & expressive crowds.<br>
+    - 🧠 Becoming an AI Graphics & Immersive Simulation Engineer.<br>
+    - 💻 Toolset → Unity · Unreal · C++ · C# · Python.<br>
 </p>
 
 
