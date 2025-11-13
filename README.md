@@ -102,7 +102,7 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <!-- 왼쪽: Snake -->
-    <td align="center" style="padding: 0; border: none;" width="63%">
+    <td align="center" style="padding: 0; border: none;" width="80%">
       <img 
         src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg" 
         alt="Snake animation" 
@@ -110,7 +110,7 @@
       />
     </td>
     <!-- 오른쪽: Spotify 최근 재생 2곡 -->
-    <td align="center" style="padding: 0; border: none;" width="37%">
+    <td align="center" style="padding: 0; border: none;" width="20%">
       <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e" target="_blank">
         <img 
           src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" 
