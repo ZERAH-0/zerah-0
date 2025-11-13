@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! My name is ZERAH!</h2>
 
-<p align="left">
-  Immersive Simulation · AI Graphics · Realtime Interaction
+<p align="left" style="font-size: 16px;">
+  <b>Immersive Simulation · AI Graphics · Realtime Interaction</b>
 </p>
 
----
+<!--구분선 -->
+<hr style="border: 0; height: 1px; background: #3a3f47; margin: 10px 0 25px 0;">
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zerah-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
