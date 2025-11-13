@@ -3,7 +3,7 @@
 </div>
 
 ###
-<p align="center" style="margin-bottom: 0px;"> ✨AI Graphics & Simulation Engineer✨ </p>
+<p align="center" style="margin-top: -10px; margin-bottom: 0px;"> ✨AI Graphics & Simulation Engineer✨ </p>
 
 <!-- 가로 구분선 (간격 & 두께 줄임) -->
 <hr style="width:80%; 
