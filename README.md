@@ -7,13 +7,12 @@
 
 <!-- 가로 구분선 (간격 & 두께 줄임) -->
 <hr style="width:80%; 
-           margin-top: 5px; 
-           margin-bottom: 10px; 
+           margin-top: 0px; 
+           margin-bottom: 0px; 
            border: 0; 
            height: 0.05px; 
            background:#444;" />
-###
-  
+
 <br clear="both">
 
 <div align="center">
