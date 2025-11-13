@@ -70,7 +70,7 @@
 ### 🎮 About Me...
 
 <p align="left" style="margin-left: 50px;">
-    - 💡 Creating real-time, physics-driven interactions. <br>
+    - 💡 Working on real-time simulation, character behavior, and physically-driven interaction.<br>
     - ✋ Experimenting with hand tracking & expressive crowds.<br>
     - 🧠 Becoming an AI Graphics & Immersive Simulation Engineer.<br>
     - 💻 Toolset → Unity · Unreal · C++ · C# · Python.<br>
