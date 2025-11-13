@@ -67,7 +67,7 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
 
-### 🎮 Little about me
+### 🎮 About Me...
 
 <p align="left" style="margin-left: 50px;">
     - 💡 Creating real-time, physics-driven interactions. <br>
