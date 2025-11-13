@@ -92,7 +92,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" alt="zerah gif" />
+<img align="center" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" alt="zerah gif" />
 
 ###
 
