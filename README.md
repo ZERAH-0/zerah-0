@@ -38,13 +38,11 @@
 ###
 
 
-<div align="center">
-
   <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🍅-ZERAH%20SITE-F3F4F6?style=for-the-badge&labelColor=#b8dced&color=#b8dced&logoColor=111827" 
+      src="https://img.shields.io/badge/🍅-ZERAH%20SITE-%23b8dced?style=for-the-badge&labelColor=%23b8dced&logoColor=111827" 
       height="35"
-  />
+    />
   </a>
 
 
