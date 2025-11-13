@@ -92,15 +92,30 @@
 
 ###
 
-<img align="center" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" alt="zerah gif" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
+
+<table>
+  <tr>
+    <!-- GIF -->
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" 
+           height="150" />
+    </td>
+    <!-- Spotify -->
+    <td align="center" style="padding-left: 20px;">
+      <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
+        <img 
+          src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false"
+          height="150"
+        />
+      </a>
+    </td>
+
+  </tr>
+</table>
+
 </div>
+
 
 
 ###
