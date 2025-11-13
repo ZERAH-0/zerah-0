@@ -59,11 +59,11 @@
 
 ### 
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
   <!-- Spotify -->
-  <td align="center" style="padding-right: 20px;">
+  <td align="center" style="padding-right: 20px;" border="0">
     <a href="https://open.spotify.com/user/31wwucdn3vpt2uxr6q653ejo6s5e">
       <img
         src="https://spotify-recently-played-readme.vercel.app/api?user=31wwucdn3vpt2uxr6q653ejo6s5e&count=2&unique=false"
@@ -74,7 +74,7 @@
   </td>
 
   <!-- Snake -->
-  <td align="center" style="padding-left: 20px;">
+  <td align="center" style="padding-left: 20px;" border="0">
     <img
       src="https://raw.githubusercontent.com/zerah-0/zerah-0/output/snake.svg"
       alt="Snake animation"
