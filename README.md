@@ -25,7 +25,7 @@
   </a>
 
     <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/zerah" target="_blank">
+  <a href="https://www.linkedin.com/in/zerah-0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 
