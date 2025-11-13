@@ -3,8 +3,7 @@
 <p align="left" style="font-size: 16px;">
   <b>Immersive Simulation · AI Graphics · Realtime Interaction</b>
 </p>
-###
-###
+
 
 
 <div align="center">
@@ -36,9 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
 
-###
 
-###
 ###
 <div align="center">
   
