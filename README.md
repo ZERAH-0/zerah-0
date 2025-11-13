@@ -41,10 +41,11 @@
   
   <a href="https://zerah-0.github.io/ZERAH/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🍅-MY%20SITE-%23e9e9e9?style=for-the-badge&labelColor=%23e9e9e9&logoColor=111827" 
+      src="https://img.shields.io/badge/-MY%20SITE-%23e9e9e9?style=for-the-badge&labelColor=%23e9e9e9&logo=data:image/svg+xml;base64,8J+Nug==&logoWidth=22&logoColor=111827" 
       height="35"
     />
   </a>
+
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@YOUR_YOUTUBE_ID" target="_blank">
