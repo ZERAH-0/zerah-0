@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=%F0%9D%99%95%F0%9D%99%80%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%83&fontSize=70&fontColor=FFFFFF&fontAlign=80&fontAlignY=50&stroke=-&desc=This%20is&descSize=50&descAlign=45&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=%F0%9D%99%95%F0%9D%99%80%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%83&fontSize=70&fontColor=FFFFFF&fontAlign=80&fontAlignY=50&stroke=-&desc=This%20is&descSize=50&descAlign=45&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
 ###
