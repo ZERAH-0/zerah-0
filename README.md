@@ -63,16 +63,15 @@
 
 <br><br>
 
+<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
 
 ### 🎮 About Me...
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif" />
-
 <p align="left" style="margin-left: 50px;">
-    - 💡 Working on real-time simulation, character behavior, and physically-driven interaction.<br>
-    - ✋ Experimenting with hand tracking & expressive crowds.<br>
-    - 🧠Aiming to become an AI Graphics & Immersive Simulation Engineer.<br>
-    - 💻 Toolset → Unity · Unreal · C++ · C# · Python.<br>
+    - 💡 Working on real-time simulation, character behavior, and interactive physics.<br>
+    - ✋ Exploring hand tracking, pose-based interaction, and expressive crowd systems.<br>
+    - 🧠 Pursuing a path as an AI Graphics & Immersive Simulation Engineer.<br>
+    - 💻 Comfortable with Unity · Unreal · C++ · C# · Python for real-time work.<br>
 </p>
 
 
