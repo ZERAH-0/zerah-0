@@ -21,7 +21,7 @@
 
 ###
 
-<img align="left" height="150" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
+<img align="left" height="200" src="https://raw.githubusercontent.com/ZERAH-0/zerah-0/refs/heads/main/donttouch.gif"  />
 
 ###
 
