@@ -4,8 +4,6 @@
   <b>Immersive Simulation · AI Graphics · Realtime Interaction</b>
 </p>
 
-<!--구분선 -->
-<hr style="border: 0; height: 1px; background: #3a3f47; margin: 10px 0 25px 0;">
 
 
 <div align="center">
