@@ -23,6 +23,22 @@
       height="25"
     />
   </a>
+
+    <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+
+  
+  <!-- Velog -->
+ <a href="https://velog.io/@zerah-0" target="_blank">
+  <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" height="25" />
+</a>
+
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
   
   <!-- YouTube -->
   <a href="https://www.youtube.com/@YOUR_YOUTUBE_ID" target="_blank">
@@ -34,30 +50,15 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-
   <!-- Discord (프로필 링크 or 서버 초대링크) -->
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 
   <!-- Slack (프로필/워크스페이스 링크) -->
   <a href="https://YOUR_SLACK_WORKSPACE.slack.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-
-  <!-- Velog -->
- <a href="https://velog.io/@zerah-0" target="_blank">
-  <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white" height="25" />
-</a>
 
 </div>
 
